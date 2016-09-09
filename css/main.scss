@@ -37,3 +37,12 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+
+// Custom
+
+img.img-profile {
+  float: left;
+  width: 145px;
+  margin-right: 15px;
+}
