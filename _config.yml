@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BAOBAB-STORY
-email: baobab.duncan@gamil.com
+email: baobab.duncan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Baobab blog
 baseurl: "" # the subpath of your site, e.g. /blog
