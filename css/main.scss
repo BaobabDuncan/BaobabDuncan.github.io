@@ -46,3 +46,22 @@ img.img-profile {
   width: 145px;
   margin-right: 15px;
 }
+
+.share-page {
+    text-align: center;
+    background: $grey-color;
+    color: $grey-color-light;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a {
+        font-weight: 700;
+        color: $grey-color-dark;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}
