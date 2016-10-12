@@ -2,7 +2,7 @@
 layout: post
 title:  " 환생에 대한 생각"
 date:   2016-09-09 13:45:12 +0900
-categories: 지대넓얕
+categories: 종교
 ---
 죽음 이후에는 무엇이 있을까?
 
