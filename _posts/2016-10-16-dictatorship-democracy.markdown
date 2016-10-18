@@ -2,7 +2,7 @@
 layout: post
 title:  "엘리트주의(독재)와 민주주의"
 date:   2016-10-16 18:33:12 +0900
-categories: 정치
+categories: politics
 ---
 
 ## 정치?

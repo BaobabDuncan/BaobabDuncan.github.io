@@ -2,7 +2,7 @@
 layout: post
 title:  "명상에 관하여"
 date:   2016-10-07 15:46:12 +0900
-categories: 종교
+categories: religion
 ---
 
 ### 명상

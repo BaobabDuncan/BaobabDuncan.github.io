@@ -2,7 +2,7 @@
 layout: post
 title:  "정치는 왜 타락하는가?"
 date:   2016-10-17 19:15:12 +0900
-categories: 정치
+categories: politics
 ---
 
 ["엘리트주의(독재)와 민주주의"]({% post_url 2016-10-16-dictatorship-democracy %})에서 왜 정치가 타락하는지에 대한 궁금중을 가지고 있었는데 이에 대한 약간의 해소를 할 수 있을 듯 하다.

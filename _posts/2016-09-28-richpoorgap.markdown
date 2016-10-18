@@ -2,7 +2,7 @@
 layout: post
 title:  "빈부격차의 해소 방법은?"
 date:   2016-09-28 10:45:12 +0900
-categories: 경제
+categories: economy
 ---
 ### 보수와 진보의 구분
 - 세금을 늘려서 복지를 늘리는 것은 진보 세금을 유지 혹은 줄이는 것은 보수

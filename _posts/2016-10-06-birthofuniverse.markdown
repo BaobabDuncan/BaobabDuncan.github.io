@@ -2,7 +2,7 @@
 layout: post
 title:  "우주에 대한 생각의 변화"
 date:   2016-10-06 10:45:12 +0900
-categories: 과학
+categories: science
 ---
 
 우주에 대한 생각이 시대의 변화에 따라서 어떻게 변화되었는지 알아보도록 하자

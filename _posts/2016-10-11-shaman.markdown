@@ -2,7 +2,7 @@
 layout: post
 title:  "무속신앙에 관하여"
 date:   2016-10-11 16:01:12 +0900
-categories: 종교
+categories: religion
 ---
 
 무속신앙은 오래된 역사를 가지고 있으며 초자연적인 존재와의 직접적인 소통을 한다는 특징을 가지고 있다.

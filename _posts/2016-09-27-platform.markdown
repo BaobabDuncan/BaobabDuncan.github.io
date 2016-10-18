@@ -2,7 +2,7 @@
 layout: post
 title:  "플랫폼은 생산수단?"
 date:   2016-09-27 10:45:12 +0900
-categories: 경제
+categories: economy
 ---
 부자가 되기위해서는 무엇이 필요할까 ‘부자아빠가난한 아빠’에서는 다음과 같이 말한다고 한다.
 

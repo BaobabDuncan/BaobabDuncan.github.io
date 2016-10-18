@@ -2,7 +2,7 @@
 layout: post
 title:  "그리스도교에서의 신비체험"
 date:   2016-10-12 10:43:12 +0900
-categories: 종교
+categories: religion
 ---
 
 그리스도교에서도 다음과 같은 신비체험이 존재한다.

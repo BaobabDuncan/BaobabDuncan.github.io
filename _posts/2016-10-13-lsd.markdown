@@ -2,7 +2,7 @@
 layout: post
 title:  "LSD를 통한 깨달음?"
 date:   2016-10-13 18:43:12 +0900
-categories: 종교
+categories: religion
 ---
 
 # LSD(Lysergic Acid Diethylamide)
