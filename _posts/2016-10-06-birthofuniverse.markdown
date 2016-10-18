@@ -90,4 +90,4 @@ categories: science
 - Keyword
   - 모세5경, 이심원, 연주시차, 정상상태우주론
 - Refer
-  - [지대넓얕]우주의 탄생
+  - 지대넓얕 우주의 탄생

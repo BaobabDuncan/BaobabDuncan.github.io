@@ -36,5 +36,5 @@ categories: economy
 - Keyword
   - 마르크스, 보수, 진보
 - Refer
-  - [지대넓얕]자본주의와 공산주의
+  - 지대넓얕 자본주의와 공산주의
   - https://www.applicoinc.com/blog/what-is-a-platform-business-model/

@@ -20,4 +20,4 @@ categories: religion
 - Keyword
   - 연옥, 연기설, 불지옥, 사자의 서
 - Refer
-  - [지대넓얕]사후세계 특집
+  - 지대넓얕 사후세계 특집

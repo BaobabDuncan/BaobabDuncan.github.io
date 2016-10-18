@@ -76,4 +76,4 @@ categories: politics
 - Keyword
   - 21세기 자본, 토마 피케티, 제한된 합리성
 - Refer
-  - [지대넓얕]정치의 타락
+  - 지대넓얕 정치의 타락
