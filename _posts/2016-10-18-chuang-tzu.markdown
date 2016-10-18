@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "장자"
+title:  "장자 도를 아시나요?"
 date:   2016-10-18 10:50:12 +0900
 categories: philosophy
 ---
