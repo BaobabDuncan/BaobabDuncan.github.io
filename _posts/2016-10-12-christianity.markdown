@@ -33,4 +33,4 @@ categories: religion
 - Keyword
   - 축사, 조로아스터교
 - Refer
-  - 신비체험 특집 - 기독 신비
+  - [지대넓얕]신비체험 특집 - 기독 신비

@@ -40,4 +40,4 @@ categories: economy
 - Keyword
   - 중간기술, 대안 경제, 블록 경제, 예수원, 키부츠, 헨리 조지
 - Refer
-  - 먹고사는 법
+  - [지대넓얕]먹고사는 법
