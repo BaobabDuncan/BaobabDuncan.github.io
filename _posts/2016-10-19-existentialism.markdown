@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "실존주의"
+title:  "나 지금 여기"
 date:   2016-10-19 07:00:12 +0900
 categories: philosophy
 ---
